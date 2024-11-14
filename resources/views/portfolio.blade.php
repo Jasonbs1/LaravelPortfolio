@@ -7,7 +7,7 @@
 
      <!-- CSS  -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/materialize.min.css" type="text/css" media="screen,projection"/>
     <link href="/css/scrollbar.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen,projection"/>
