@@ -8,9 +8,9 @@
      <!-- CSS  -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ asset('css/materialize.min.css')}}" type="text/css" media="screen,projection"/>
-    <link href="{{ asset('css/scrollbar.css')}}" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link rel="stylesheet" href="{{ asset('css/style.css')}}" type="text/css" media="screen,projection"/>
+    <link rel="stylesheet" href="/css/materialize.min.css" type="text/css" media="screen,projection"/>
+    <link href="/css/scrollbar.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen,projection"/>
     <style>
     .modal-footer .btn-flat {
       color: white;
@@ -31,7 +31,7 @@
         <ul id="nav-mobile" class="side-nav fixed side-bar white-text">
           <li class="logo">
             <a id="logo-container" href="" class="brand-logo white-text">
-            <img src="{{ asset('images/foto2.jpg') }}" alt="Logo" width="50">
+            <img src="/images/foto2.jpg" alt="Logo" width="50">
               <h4>Jason B. Setiawan</h4>
             </a>
           </li><br><br>
@@ -198,16 +198,16 @@
 
   <!-- Scripts -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="{{ asset('js/materialize.min.js')}}"></script>
+  <script src="/js/materialize.min.js"></script>
   <script>
     $(document).ready(function(){
       $(".button-collapse").sideNav();
       $('.modal').modal();
     });
   </script>
-          <script type="text/javascript" src="{{ asset('js/jquery.min.js')}}"></script>
-          <script type="text/javascript" src="{{ asset('js/materialize.min.js')}}"></script>
-          <script src="{{ asset('js/init.js') }}"></script>
+          <script type="text/javascript" src="/js/jquery.min.js"></script>
+          <script type="text/javascript" src="/js/materialize.min.js"></script>
+          <script src="/js/init.js"></script>
 
               <!-- Materialize JS -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
