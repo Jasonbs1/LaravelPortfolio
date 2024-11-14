@@ -19,6 +19,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://laravel-portfolio-jason.vercel.app",
+        "APP_KEY": "base64:es++k3M1ACbBzUMFqXo9Xa6UBBQgpuND7Erm6Jdbn2U=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
