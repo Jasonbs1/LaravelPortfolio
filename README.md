@@ -1,3 +1,7 @@
+Published to
+https://laravel-portfolio-jason.vercel.app/portfolio
+
+
 Selamat Pagi yang Terhormat Guru Besar yang Mulia, Semoga Guru Besar dalam keadaan sebaik-baiknya. Mohon maaf jika keberanian ini mengganggu keagungan waktu Guru Besar yang mulia.
 
 Saya, hamba hina yang ini adalah sebatang kara yang berusaha mengejar ilmu di lingkungan Guru Besar yang penuh berkah dan kebijaksanaan. Hamba ingin memohon pengetahuan Guru Besar yang suci mengenai tugas ini yang telah hamba persembahkan: Dengan rasa hormat dan kerendahan hati, hamba ingin mengucapkan rasa syukur hamba yang dalam atas segala bimbingan dan petunjuk yang Guru Besar muliakan.
